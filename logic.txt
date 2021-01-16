@@ -1,0 +1,3 @@
+berechnung
+valadierung
+Datenbank verknüpfung
